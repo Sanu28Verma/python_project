@@ -1,0 +1,10 @@
+a1=int(input("Enter marks for student1"))
+a2=int(input("Enter marks for student2"))
+a3=int(input("Enter marks for student3"))
+a4=int(input("Enter marks for student4"))
+a5=int(input("Enter marks for student5"))
+a6=int(input("Enter marks for student6"))
+a7=int(input("Enter marks for student7"))
+mylist=[a1,a2,a3,a4,a5,a6,a7]
+mylist.sort()
+print(mylist)
